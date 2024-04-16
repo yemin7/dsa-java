@@ -1,4 +1,4 @@
-package Arrays.Container;
+package arrays.medium;
 
 public class ContainerWithMostWater {
     public static void main(String[] args) {
